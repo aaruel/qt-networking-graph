@@ -2,4 +2,4 @@
 
 the code's not pretty
 
-![](https://i.imgur.com/bYASpS6.gifv)
+https://i.imgur.com/bYASpS6.gifv
